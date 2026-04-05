@@ -4,3 +4,5 @@ You cannot skip forward (or backward), one has to hold the buttons down to fast 
 The motivation is to experience all songs from an artist / album, old-school cassette or vinyl style.
 
 All code was written by Claude.
+
+The markup and circles files were aids to guide Claude for the UI layout I wanted.
